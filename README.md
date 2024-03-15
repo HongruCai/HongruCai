@@ -3,7 +3,7 @@ I am now a Master student in the School of Computing at <a href='https://nus.edu
 
 To fully discover my potential, I have been working on a wide range of research topics. My previous research experience includes Computer Vision, Robot Vision, and Reinforcement Learning.
 
-I am currently working on Cross-Modal Generative Retrieval in <a href='https://www.nextcenter.org/'>NExT++</a> with <a href='https://liyongqi67.github.io/'>Dr. Yongqi Li</a> and <a href='https://wenjiewwj.github.io/'>Dr. Wenjie Wang</a>. 
+I am currently working on Cross-Modal Generative Retrieval in <a href='https://www.nextcenter.org/'>NExT++</a> with <a href='https://liyongqi67.github.io/'>Dr. Yongqi Li</a> and <a href='https://wenjiewwj.github.io/'>Dr. Wenjie Wang</a>, supervised by <a href='https://www.chuatatseng.com/'>Prof. Chua Tat-Seng</a>. 
 
 I am eager to participate more cutting-edge research projects and I will always be passionate about creating a better world with AI tools and technologies. I am looking forward to pursuing a Ph.D. degree in the future.
 
@@ -15,19 +15,15 @@ You can find my full <a href='https://drive.google.com/file/d/1NyeCFdMFH6orBbVDN
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a> 
-</div>
- 
+
 
 <br/>  
 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HongruCai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HongruCai&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" /></div>  
 
 <br/>  
 
