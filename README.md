@@ -1,11 +1,9 @@
 # 👋 About Me
 I am now a Master student in the School of Computing at <a href='https://nus.edu.sg/'>National University of Singapore(NUS)</a>. I received my Bachelor degree from Institute of Artificial Intelligence at <a href='https://www.buaa.edu.cn/'>Beihang University(BUAA)</a> in 2023.
 
-To fully discover my potential, I have been working on a wide range of research topics. My previous research experience includes Computer Vision, Robot Vision, and Reinforcement Learning.
-
 I am currently working on Cross-Modal Generative Retrieval in <a href='https://www.nextcenter.org/'>NExT++</a> with <a href='https://liyongqi67.github.io/'>Dr. Yongqi Li</a> and <a href='https://wenjiewwj.github.io/'>Dr. Wenjie Wang</a>, supervised by <a href='https://www.chuatatseng.com/'>Prof. Chua Tat-Seng</a>. 
 
-I am eager to participate more cutting-edge research projects and I will always be passionate about creating a better world with AI tools and technologies. I am looking forward to pursuing a Ph.D. degree in the future.
+My research interests include Multimodal Learning, Information Retrieval, and LLM-based Agents. 
 
 You can find my full <a href='https://drive.google.com/file/d/1NyeCFdMFH6orBbVDN4U3jpypUWLnClVg/view?usp=sharing'>CV</a> here. 
 
@@ -23,7 +21,7 @@ You can find my full <a href='https://drive.google.com/file/d/1NyeCFdMFH6orBbVDN
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HongruCai&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HongruCai&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
 <br/>  
 
