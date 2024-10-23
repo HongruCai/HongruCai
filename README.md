@@ -1,12 +1,10 @@
 # 👋 About Me
-I am now a Master student in the School of Computing at <a href='https://nus.edu.sg/'>National University of Singapore(NUS)</a>. I received my Bachelor degree from Institute of Artificial Intelligence at <a href='https://www.buaa.edu.cn/'>Beihang University(BUAA)</a> in 2023.
+I am a Master student in the School of Computing at <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>, mentored by <a href='https://wenjiewwj.github.io/'>Dr. Wenjie Wang</a> and <a href='https://liyongqi67.github.io/'>Dr. Yongqi Li</a>, under the supervision of <a href='https://www.chuatatseng.com/'>Prof. Tat-Seng Chua</a>. 
+I received my Bachelor's degree in 2023 from the Institute of Artificial Intelligence at <a href='https://www.buaa.edu.cn/'>Beihang University (BUAA)</a>.
 
-I am currently working on Cross-Modal Generative Retrieval in <a href='https://www.nextcenter.org/'>NExT++</a> with <a href='https://liyongqi67.github.io/'>Dr. Yongqi Li</a> and <a href='https://wenjiewwj.github.io/'>Dr. Wenjie Wang</a>, supervised by <a href='https://www.chuatatseng.com/'>Prof. Chua Tat-Seng</a>. 
+My research focuses on Multimodal Learning, Information Retrieval, and LLM-based Agents.
 
-My research interests include Multimodal Learning, Information Retrieval, and LLM-based Agents. 
-
-You can find my full <a href='https://drive.google.com/file/d/1NyeCFdMFH6orBbVDN4U3jpypUWLnClVg/view?usp=sharing'>CV</a> here. 
-
+**I am actively  seeking Ph.D. opportunities starting in 2025**.
 
 <!-- <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
