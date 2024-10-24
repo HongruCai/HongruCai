@@ -2,7 +2,7 @@
 I am a Master student in the School of Computing at <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>, mentored by <a href='https://wenjiewwj.github.io/'>Dr. Wenjie Wang</a> and <a href='https://liyongqi67.github.io/'>Dr. Yongqi Li</a>, under the supervision of <a href='https://www.chuatatseng.com/'>Prof. Tat-Seng Chua</a>. 
 I received my Bachelor's degree in 2023 from the Institute of Artificial Intelligence at <a href='https://www.buaa.edu.cn/'>Beihang University (BUAA)</a>.
 
-My research focuses on Multimodal Learning, Information Retrieval, and LLM-based Agents.
+My research focuses on Information Retrieval, Multimodal Learning, and LLM-based Agents.
 
 **I am actively  seeking Ph.D. opportunities starting in 2025**.
 
