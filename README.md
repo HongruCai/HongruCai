@@ -1,4 +1,4 @@
-# 👋 Hi ~ This is Hongru Cai
+## 👋 Hi ~ This is Hongru Cai
 I am a Master's student in the School of Computing at <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>, mentored by <a href='https://wenjiewwj.github.io/'>Prof. Wenjie Wang</a> and <a href='https://liyongqi67.github.io/'>Dr. Yongqi Li</a>, under the supervision of <a href='https://www.chuatatseng.com/'>Prof. Tat-Seng Chua</a>. 
 I received my Bachelor's degree in 2023 from the Institute of Artificial Intelligence at <a href='https://www.buaa.edu.cn/'>Beihang University (BUAA)</a>.
 
