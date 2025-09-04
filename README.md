@@ -4,8 +4,6 @@ I received my Bachelor's degree in 2023 from the Institute of Artificial Intelli
 
 My research focuses on Information Retrieval, Personalization, and Language Agents.
 
-**I am actively  seeking Ph.D. opportunities starting in 2025.**
-
 <!-- <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
