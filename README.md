@@ -1,8 +1,9 @@
 ## 👋 Hi ~ This is Hongru Cai
-I am a Master's student in the School of Computing at <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a>, mentored by <a href='https://wenjiewwj.github.io/'>Prof. Wenjie Wang</a> and <a href='https://liyongqi67.github.io/'>Dr. Yongqi Li</a>, under the supervision of <a href='https://www.chuatatseng.com/'>Prof. Tat-Seng Chua</a>. 
-I received my Bachelor's degree in 2023 from the Institute of Artificial Intelligence at <a href='https://www.buaa.edu.cn/'>Beihang University (BUAA)</a>.
+I am an incoming Ph.D. student at <a href='https://polyunlp.github.io/index'>**NLP Group**</a> of <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, supervised by <a href='https://www4.comp.polyu.edu.hk/~cswjli/'>**Prof. Wenjie Li**</a> and <a href='https://liyongqi67.github.io/'>**Prof. Yongqi Li**</a>, and closely collaborating with <a href='https://wenjiewwj.github.io/'>**Prof. Wenjie Wang**</a>. Before joining PolyU, I completed my Master’s studies at the <a href="https://www.nextcenter.org/">**NExT++ Research Center**</a> of the <a href='https://nus.edu.sg/'>National University of Singapore (NUS)</a> in 2025 under the supervision of <a href='https://www.chuatatseng.com/'>**Prof. Tat-Seng Chua**</a>. I received my Bachelor’s degree in 2023 from the Institute of Artificial Intelligence at <a href='https://www.buaa.edu.cn/'>Beihang University (BUAA)</a>.
 
-My research focuses on Information Retrieval, Personalization, and Language Agents.
+My research focuses on **LLM for Search**, **Multimodal Learning**, and **Language Agents**.
+
+I am open to collaboration and would be glad to discuss with anyone interested in these topics!
 
 <!-- <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
