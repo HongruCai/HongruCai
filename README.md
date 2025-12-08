@@ -18,7 +18,7 @@ I am open to collaboration and would be glad to discuss with anyone interested i
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HongruCai&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-iota-rouge-67.vercel.app/api?username=HongruCai&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
 <br/>  
 
