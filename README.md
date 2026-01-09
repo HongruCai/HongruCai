@@ -4,30 +4,3 @@ I am currently a first-year Ph.D. student in the <a href='https://polyunlp.githu
 My research focuses on **LLM for Search**, **Multimodal Learning**, and **Language Agents**.
 
 I am open to collaboration and would be glad to discuss with anyone interested in these topics!
-
-<!-- <div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
- -->
-
-<br/>  
-
-<div align="center"><img src="https://github-readme-stats-iota-rouge-67.vercel.app/api?username=HongruCai&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
-
-<br/>  
-
-
-<!-- <div align="center">
-<a href="https://linkedin.com/in/henry-hongrucai" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://hongrucai.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/Personal_Website-%2324292e.svg?&style=for-the-badge&logo=jekyll&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  -->
