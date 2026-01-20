@@ -4,3 +4,11 @@ I am currently a first-year Ph.D. student in the <a href='https://polyunlp.githu
 My research focuses on **LLM for Search**, **Multimodal Learning**, and **Language Agents**.
 
 I am open to collaboration and would be glad to discuss with anyone interested in these topics!
+
+<div align="center">
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=hongrucai&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&theme=tokyonight"
+    alt="Hongru Cai's GitHub stats"
+    height="185px"
+  />
+</div>
