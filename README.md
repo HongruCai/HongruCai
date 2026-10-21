@@ -1,11 +1,12 @@
 ## 👋 Hi ~ This is Hongru Cai
-I am a first-year Ph.D. student in the <a href='https://polyunlp.github.io/index'>**NLP Group**</a> at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University</a>, supervised by <a href='https://www4.comp.polyu.edu.hk/~cswjli/'>**Prof. Wenjie Li**</a> and <a href='https://liyongqi67.github.io/'>**Prof. Yongqi Li**</a>, and closely collaborating with <a href='https://wenjiewwj.github.io/'>**Prof. Wenjie Wang**</a> from the University of Science and Technology of China.
 
-Before joining PolyU, I earned my Master's degree from the <a href="https://www.nextcenter.org/">**NExT++ Research Center**</a> at the <a href='https://nus.edu.sg/'>National University of Singapore</a> in 2025, supervised by <a href='https://www.chuatatseng.com/'>**Prof. Tat-Seng Chua**</a>. I received my Bachelor's degree from the Institute of Artificial Intelligence at <a href='https://www.buaa.edu.cn/'>Beihang University</a> in 2023.
+I am a first-year Ph.D. student in the [**NLP Group**](https://polyunlp.github.io/index) at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/), supervised by [**Prof. Wenjie Li**](https://www4.comp.polyu.edu.hk/~cswjli/) and [**Prof. Yongqi Li**](https://liyongqi67.github.io/), and closely collaborating with [**Prof. Wenjie Wang**](https://wenjiewwj.github.io/) from the University of Science and Technology of China (USTC).
 
-<p class="about__research-note">My research focuses on <span class="about__research-term">LLMs for Search</span>, especially <span class="about__research-term">Search Agents</span> and <span class="about__research-term">Generative Retrieval</span>.</p>
+Before joining PolyU, I worked with [**Prof. Tat-Seng Chua**](https://www.chuatatseng.com/) at the [**NExT++ Research Center**](https://www.nextcenter.org/), [National University of Singapore (NUS)](https://nus.edu.sg/), and completed my Master's degree in 2025. I received my Bachelor's degree from [Beihang University (BUAA)](https://www.buaa.edu.cn/) in 2023.
 
-<p class="about__contact-line">You can reach me at <span class="about__contact-label">henry <span class="about__contact-sep">[dot]</span> hongrucai <span class="about__contact-sep">[at]</span> gmail <span class="about__contact-sep">[dot]</span> com</span>. I am always happy to connect with people working on related topics! </p>
+My research focuses on **LLMs for Search**, especially **Search Agents** and **Generative Retrieval**.
+
+You can reach me at `henry [dot] hongrucai [at] gmail [dot] com`. I am always happy to connect with people working on related topics!
 
 <div align="center">
   <img
